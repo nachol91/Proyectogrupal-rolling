@@ -1,2 +1,2 @@
 # Proyectogrupal-rolling
-Proyecto  recetario para WEB18
+proyecto en grupo de recetario
